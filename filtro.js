@@ -28,7 +28,7 @@ for (let i = 0; i < productos.length; i++) {
   li.appendChild(d)
 }
 
-// displayProductos(productos) /* No existe está función */
+// displayProductos(productos) /* No existe esta función */
 const botonDeFiltro = document.querySelector("button");
 
 botonDeFiltro.onclick = function() {
